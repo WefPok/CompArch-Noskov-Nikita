@@ -1,0 +1,76 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/nikman/Desktop/InnoTasks/lab12/simulation/modelsim
+valu
+!s110 1605794527
+!i10b 1
+!s100 TTied?jHj_a4caOMz<S0b3
+I1KHFE?`z>9AFH:h9;k_RO0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1605793445
+8C:/Users/nikman/Desktop/InnoTasks/lab12/alu.v
+FC:/Users/nikman/Desktop/InnoTasks/lab12/alu.v
+L0 1
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1605794527.000000
+!s107 C:/Users/nikman/Desktop/InnoTasks/lab12/alu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/nikman/Desktop/InnoTasks/lab12|C:/Users/nikman/Desktop/InnoTasks/lab12/alu.v|
+!i113 1
+Z3 o-vlog01compat -work work
+Z4 !s92 -vlog01compat -work work +incdir+C:/Users/nikman/Desktop/InnoTasks/lab12
+Z5 tCvgOpt 0
+valu_testbench
+!s110 1605794518
+!i10b 1
+!s100 n4_RhCEANXGf_kF9dU5lN1
+IAa@VRLU<n?FLidQnmj[ne1
+R1
+R0
+w1605792043
+8C:/Users/nikman/Desktop/InnoTasks/lab12/alu_testbench.v
+FC:/Users/nikman/Desktop/InnoTasks/lab12/alu_testbench.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1605794518.000000
+!s107 C:/Users/nikman/Desktop/InnoTasks/lab12/alu_testbench.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/nikman/Desktop/InnoTasks/lab12|C:/Users/nikman/Desktop/InnoTasks/lab12/alu_testbench.v|
+!i113 1
+R3
+R4
+R5
+vhard_block
+!s110 1605794515
+!i10b 1
+!s100 Sl8`:`dZ`dIn6`WY83jg`0
+IUjB_CA=Mbi]KE^lfh6HeQ1
+R1
+R0
+w1605794483
+8ex1.vo
+Fex1.vo
+L0 532
+R2
+r1
+!s85 0
+31
+!s108 1605794513.000000
+!s107 ex1.vo|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|ex1.vo|
+!i113 1
+R3
+!s92 -vlog01compat -work work +incdir+.
+R5
